@@ -6,4 +6,4 @@ if __name__ == "__main__":
 
 def bad( ):
      x=1
-     return x
+     return x 
